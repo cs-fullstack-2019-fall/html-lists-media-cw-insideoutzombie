@@ -1,0 +1,49 @@
+section {
+  display: block;
+  margin-left: 18%;
+  width: 28%;
+  height: 246px;
+  border: 2px solid;
+  border-radius: 20px;
+  padding: 50px;
+  margin-top: -354px;
+  background-color: lightblue;
+  font-size: 40px;
+}
+
+.background {margin: 200px;
+  background-color: lightgreen;
+  margin: 200px;
+}
+
+.word {
+  list-style-image: url('./img/cake.PNG');
+}
+
+img {
+  border-radius: 25px;
+  margin-left: 840px;
+  margin-top: 10px
+}
+
+iframe {
+  border: 1px solid;
+  border-radius: 25px;
+  width: 1081px;
+  margin-left: 281px;
+  padding-top: 28px;
+  margin-top: 7px;
+  margin-bottom: 30px;
+}
+
+header {
+  border: 2px solid;
+    border-radius: 25px;
+    text-align: center;
+    font-size: 50px;
+    width: 1151px;
+    margin-left: 250px;
+    padding-top: 25px;
+    background-color: grey;
+    color: red;
+}
